@@ -4,6 +4,7 @@
  * @Description: 
  */
 module.exports = {
+  base: '/',
   title: 'Hello Sea Coast',
   description: 'Welcom to here!',
   locales: {
